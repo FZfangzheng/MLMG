@@ -8,4 +8,5 @@ link: https://pan.baidu.com/s/1i8Z6c6rVLWEnU8RY1vANFQ
 
 code: zpk2 
 
-![dataset](https://github.com/FZfangzheng/MLMG/static/dataset.jpg)
+![dataset](https://github.com/FZfangzheng/MLMG/blob/main/static/dataset.jpg)
+
